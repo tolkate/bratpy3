@@ -1,5 +1,9 @@
 # brat rapid annotation tool (brat) #
 
+## Disclamer for a fork of Brat annotation tool
+
+I needed this tool in 2025 and it appeared to be incompatible with current Python versions. So far I was able to run it on Ubuntu 22.04 which natively supports Python v2.7 from the official repo. I had to tune the code a bit to address the correct interpreter (v2.7) and goint to adapt it to v3.  
+
 ## Documentation ##
 
 In an attempt to keep all user-facing documentation in one place, please visit
